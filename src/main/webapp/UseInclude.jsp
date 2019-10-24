@@ -14,7 +14,9 @@
     <body>
         <h1>Hello World!</h1>
         <div style="position: absolute;bottom: 1px">
-           
+            <!--
+            用寫入 , 不常在改 , 檔案大用這個方式
+            -->
             <%@include file="/WEB-INF/ContactSection.jsp"%>
         </div>
     </body>
